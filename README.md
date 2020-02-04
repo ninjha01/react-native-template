@@ -6,6 +6,11 @@ Android:
 
 # Hello World
 
+TODO:
+1. Set up VS App Center CICD
+1. Change Firebase Key
+
+
 # Set up react native
 
 ## Common
