@@ -8,6 +8,7 @@ import {
 } from "react-native";
 import styles from "../common/Styles";
 import NavigationStyles from "../common/Navigation";
+import Firebase from "../common/Firebase";
 
 export default class HomePage extends Component {
   static navigationOptions = ({ navigation }) => {

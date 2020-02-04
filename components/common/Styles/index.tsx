@@ -15,6 +15,13 @@ const styles = StyleSheet.create({
     padding: 32,
     alignItems: "center"
   },
+  menu_left: {
+    marginLeft: 16
+  },
+  menu_icon: {
+    flex: 1,
+    color: "white"
+  },
 });
 
 export default styles;
