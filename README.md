@@ -1,6 +1,9 @@
 iOS: 
 [![Build status](https://build.appcenter.ms/v0.1/apps/00f7acd4-3735-4be3-af9d-fa7ef3b9f4f0/branches/master/badge)](https://appcenter.ms)
 
+Android:
+[![Build status](https://build.appcenter.ms/v0.1/apps/59f3bde1-c779-4f92-92f7-80a6acfbf3c6/branches/master/badge)](https://appcenter.ms)
+
 # Hello World
 
 # Set up react native
